@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09ed7b47-92bf-4dec-8615-a01ba0876d4c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ModelingPrehistoricEcology/.idea/ModelingPrehistoricEcology.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Personal Projects (Java)/AmicableNumbers/AmicableNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Personal Projects (Java)/CheckForPrime/CheckForPrime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Personal Projects (Java)/GCD/GCD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Personal Projects (Java)/Java Sorting Algorithms/BubbleSort/BubbleSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Personal Projects (Java)/Java Sorting Algorithms/MergeSort/MergeSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Personal Projects (Java)/Java Sorting Algorithms/SelectionSort/SelectionSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Personal Projects (Java)/LibraryManagement/LibraryManagement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Personal Projects (Python)/Fireworks/.idea/Fireworks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Personal Projects (Python)/LogarithmicIntegrals/.idea/LogarithmicIntegrals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QuantumComputing/.idea/QuantumComputing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Telegram Bots/.idea/Telegram Bots.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Telegram Bots/AruneemBhowmick5/.idea/AruneemBhowmick5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Telegram Bots/Python Telegram/.idea/Python Telegram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Telegram Bots/Python Telegram/Hulbot Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/UNO CS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AruneemBhowmick11/.idea/AruneemBhowmick11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AruneemBhowmick9/.idea/AruneemBhowmick9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10/.idea/Lab10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test10/.idea/Test10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/UNO Final Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../television/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../television/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../television/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../television/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../television/.idea/television.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../television/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../websiteBlocker/.idea/websiteBlocker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/backAround.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/close10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/delDel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/diff21.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/endUp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/everyNth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/front22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/front3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/frontBack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/hasTeen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/icyHot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/in2020.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/in3050.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/intMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/lastDigit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/loneTeen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/makes10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/max1020.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/missingChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/mixStart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/monkeyTrouble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/nearHundred.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/notString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/or35.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/parrotTrouble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/posNeg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/sleepIn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/startHi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/startOz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/stringE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingBat/Warmup-1/src/sumDouble.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2kns8F0WsEmGPawLbfvw78Gx34Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\arune\OneDrive\Desktop\UNO CS\UNO Final Project" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="UNO Final Project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (Python Telegram)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09ed7b47-92bf-4dec-8615-a01ba0876d4c" name="Changes" comment="" />
+      <created>1723930514122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723930514122</updated>
+    </task>
+    <servers />
+  </component>
+</project>
